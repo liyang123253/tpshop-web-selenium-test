@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_02_register.py:42 注册结果: 请输入正确手机号

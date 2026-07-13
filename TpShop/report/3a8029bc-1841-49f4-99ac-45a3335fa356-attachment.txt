@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_02_register.py:59 注册结果: 密码有效长度为6-16位！
