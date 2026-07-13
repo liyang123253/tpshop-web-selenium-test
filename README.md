@@ -103,7 +103,6 @@ python_functions = test*
 
 ```python
 BASE_URL = "https://hmshop-test.itheima.net/Home/user/login.html"  # 前台地址
-BACK_URL = "http://localhost:8000"  # 后台地址
 ```
 
 ## ⚠️ 注意事项
